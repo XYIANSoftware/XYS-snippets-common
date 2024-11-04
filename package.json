@@ -1,30 +1,30 @@
 {
-  "name": "snippets-xyian-software",
-  "displayName": "XYS Snippets",
-  "publisher": "XYIAN",
-  "description": "Xyian Software Company snippets - commonly used snippets. Readme will be updated with a snippet table soon.",
-  "version": "0.1.0",
-  "engines": {
-    "vscode": "^1.6.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "repository": {
-    "url": "https://github.com/XYIANSoftware/XYS-snippets-common"
-  },
-  "contributes": {
-    "snippets": [
-      {
-        "language": "typescriptreact",
-        "path": "./snippets/xys-core.code-snippets"
-      }
-    ]
-  },
-  "galleryBanner": {
-     "color": "#08090a",
-    "theme": "dark"
-  },
-  "badges": [],
-  "icon": "images/yamaha_blue.ico"
+    "name": "snippets-xyian-software",
+    "displayName": "XYS Snippets",
+    "publisher": "XYIAN",
+    "description": "Xyian Software Company snippets - commonly used snippets. Readme will be updated with a snippet table soon.",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.6.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+        "url": "https://github.com/XYIANSoftware/XYS-snippets-common"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/xys-core.code-snippets"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#08090a",
+        "theme": "dark"
+    },
+    "badges": [],
+    "icon": "images/Primary.ico"
 }
