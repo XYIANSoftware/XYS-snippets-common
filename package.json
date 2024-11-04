@@ -1,8 +1,8 @@
 {
-    "name": "snippets-xyian-software",
-    "displayName": "XYS Snippets",
+    "name": "snippets-xys",
+    "displayName": "Snippets from XYIAN Software",
     "publisher": "XYIAN",
-    "description": "Xyian Software Company snippets - commonly used snippets. Readme will be updated with a snippet table soon.",
+    "description": "Xyian Software Company snippets - commonly used snippets by XYS developers. Readme will be updated with a snippet table soon.",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.6.0"
