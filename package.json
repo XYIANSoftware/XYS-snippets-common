@@ -1,9 +1,9 @@
 {
-  "name": "yds-snippets",
-  "displayName": "YDS Snippets",
-  "publisher": "YAMAHA",
-  "description": "Yamaha - YDS snippet library for yds common components and useful code. UNDER CONSTRUCTION, RELEASE PLANNED 1/1/24",
-  "version": "0.1.15",
+  "name": "snippets-xyian-software",
+  "displayName": "XYS Snippets",
+  "publisher": "XYIAN",
+  "description": "Xyian Software Company snippets - commonly used snippets. Readme will be updated with a snippet table soon.",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.6.0"
   },
@@ -11,18 +11,18 @@
     "Snippets"
   ],
   "repository": {
-    "url": "https://github.com/XYIAN/yds-snippets"
+    "url": "https://github.com/XYIANSoftware/XYS-snippets-common"
   },
   "contributes": {
     "snippets": [
       {
         "language": "typescriptreact",
-        "path": "./snippets/yds-core.code-snippets"
+        "path": "./snippets/xys-core.code-snippets"
       }
     ]
   },
   "galleryBanner": {
-    "color": "#050180",
+     "color": "#08090a",
     "theme": "dark"
   },
   "badges": [],
